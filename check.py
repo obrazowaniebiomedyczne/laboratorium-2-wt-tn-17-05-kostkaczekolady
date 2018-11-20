@@ -1,4 +1,5 @@
 from solution import *
+import cv2
 from obpng import read_png, write_png
 
 
